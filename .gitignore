@@ -1,0 +1,4 @@
+node_modules
+out
+mainPilot-*.vsix
+yarn-error.log
